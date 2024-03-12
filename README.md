@@ -1,6 +1,8 @@
 # Infinix UI Library
+# Библиотека пользовательского интерфейса Infinix
 
 Introducing the Infinix UI Library by Hosvile
+Представляем библиотеку пользовательского интерфейса Infinix от Hosvile
 
 ## Getting Started
 
