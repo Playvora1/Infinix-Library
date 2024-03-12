@@ -42,7 +42,9 @@ tab:Search()
 Use toggles that can be turned on or off.
 
 ```lua
-tab:CreateToggle("Toggle/Checkbox",true,function(bool) print(bool) end)
+tab:CreateToggle("Toggle/Checkbox",true,function(bool)
+print(bool)
+end)
 
 ```
 
