@@ -24,7 +24,8 @@ You can create multiple tabs to organize your features.
 
 ```lua
 local tab = window:CreateTab("Main")
-or
+```
+```lua
 local tabs = window:CreateTab("Properties")
 ```
 
