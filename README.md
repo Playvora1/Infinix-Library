@@ -14,7 +14,6 @@ To load the UI, simply call the function:
 
 ```lua
 local window = Lib:CreateWindow("InfiniX.Lib")
-
 ```
 
 
@@ -36,6 +35,18 @@ Create functional search to any tabs
 ```lua
 tab:Search()
 ```
+
+
+### Button
+
+Create functional buttons with ease!
+
+```lua
+tab:CreateButton("Button", function ()
+game:GetService("StarterGui"):SetCore("DevConsoleVisible",true)
+end)
+```
+
 
 ### Toggle
 
