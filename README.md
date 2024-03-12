@@ -17,13 +17,6 @@ local window = Lib:CreateWindow("InfiniX.Lib")
 
 ```
 
-**Argument 1: Name of your UI (type: `string`)**
-
-**Argument 2: The Image ID; setting it to "Default" will use the default UI Logo (type: `string`)**
-
-## Implementing Features
-
-We provide pre-made features for your convenience.
 
 ### Tab
 
