@@ -87,7 +87,7 @@ Add sliders, which work well for mobile users too!
 
 ```lua
 tab:CreateSlider("Slider", 0, 1000, function(value)
-print(value)
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = value
 end)
 ```
 
