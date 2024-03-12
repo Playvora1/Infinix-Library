@@ -29,7 +29,7 @@ local tab = window:CreateTab("Main")
 local tabs = window:CreateTab("Properties")
 ```
 
-### Button
+### Search
 
 Create functional search button to any tabs
 
