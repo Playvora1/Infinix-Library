@@ -31,7 +31,7 @@ local tabs = window:CreateTab("Properties")
 
 ### Search
 
-Create functional search button to any tabs
+Create functional search to any tabs
 
 ```lua
 tab:Search()
